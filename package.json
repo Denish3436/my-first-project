@@ -1,5 +1,5 @@
 {
-  "name": "my-todolist",
+  "name": "my-first-project",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.16.0",
@@ -13,7 +13,7 @@
     "test": "mocha --recursive --exit",
     "sonar": "sonar-scanner"
   },
-  "author": "riaan@entersekt.com",
+  "author": "denishtomar3436.com",
   "description": "Basic to do list exercise",
   "devDependencies": {
     "chai": "^4.2.0",
